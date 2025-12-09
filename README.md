@@ -1,2 +1,2 @@
 # FBS-Logo-Library
-This is a simple library of all teams and conference logos in FBS Football.
+All FBS college and team logos for college football! (Reformatted for use in Microsoft Excel.)
